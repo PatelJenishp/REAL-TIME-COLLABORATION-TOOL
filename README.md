@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+COMPANY: CODTECH IT SOLUTIONS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NAME JENISH PATEL
 
-## Available Scripts
+INTER ID: CT06DG826
 
-In the project directory, you can run:
+DOMIN: SOFTWARE DEVELOPMENT
 
-### `npm start`
+DURATION: 6 WEEK
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+MENTOR: NEELA SANTOSH
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+As part of the CODTECH Internship Program, Task-2 focuses on developing a RESTful API for a library or inventory management system. This task is essential in preparing interns for real-world backend development, emphasizing best practices in designing and implementing modern APIs using CRUD operations — Create, Read, Update, and Delete.
 
-### `npm test`
+The objective of this task is to simulate a scenario that mirrors the requirements of many real-life software development projects. RESTful APIs are the backbone of many applications, from e-commerce platforms to digital libraries. They enable seamless communication between client and server systems by following the REST architectural style and using HTTP protocols.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Interns are required to build a backend application capable of managing resources such as books in a library or items in an inventory. Each resource must be uniquely identifiable and modifiable through HTTP requests. The API should handle standard HTTP methods:
 
-### `npm run build`
+GET for retrieving data,
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+POST for adding new entries,
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+PUT/PATCH for updating existing records, and
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+DELETE for removing entries.
 
-### `npm run eject`
+This task encourages the use of any preferred backend technology stack such as Node.js with Express, Python with Flask or Django, or even Java and Spring Boot — giving interns the flexibility to work in environments they are comfortable with or want to explore further. While designing the API, focus must be placed on proper routing, error handling, input validation, and use of appropriate status codes (e.g., 200 OK, 201 Created, 404 Not Found, 500 Server Error).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Another key deliverable of this task is API documentation. Proper documentation not only demonstrates professionalism but also ensures the API is easy to use and maintain by other developers. Tools like Swagger (OpenAPI), Postman, or even markdown-based docs can be used to document endpoints, request/response formats, and expected behavior.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+By the end of the task, interns are expected to submit:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Fully functional API code with working endpoints for CRUD operations.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Complete documentation explaining how to interact with the API.
 
-## Learn More
+This assignment nurtures a strong foundation in backend API development and provides practical exposure to software engineering practices. It also helps interns understand how applications exchange data and the significance of structured API development in building scalable systems. Completing this task successfully enhances an intern's portfolio, demonstrating their capability in full-stack or backend development, which is highly valued in the tech industry.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+In summary, Task-2 of the CODTECH Internship is not just a coding challenge — it is a structured exercise designed to strengthen the understanding of REST principles, backend logic, and clean code documentation. It’s an ideal opportunity for budding developers to transition from theory to hands-on development, setting the stage for future project work or professional roles in software development.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#OUTPUT
