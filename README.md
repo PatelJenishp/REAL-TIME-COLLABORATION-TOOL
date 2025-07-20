@@ -39,3 +39,4 @@ This assignment nurtures a strong foundation in backend API development and prov
 In summary, Task-2 of the CODTECH Internship is not just a coding challenge — it is a structured exercise designed to strengthen the understanding of REST principles, backend logic, and clean code documentation. It’s an ideal opportunity for budding developers to transition from theory to hands-on development, setting the stage for future project work or professional roles in software development.
 
 #OUTPUT
+<img width="606" height="304" alt="Image" src="https://github.com/user-attachments/assets/7ca0365e-9336-4faa-9796-2619d29e2f97" />
